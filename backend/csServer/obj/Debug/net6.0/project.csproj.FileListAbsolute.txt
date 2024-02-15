@@ -1,0 +1,6 @@
+C:\Users\caspi\Downloads\LeLouche_Projects\projects2024\construction\backend\csServer\obj\Debug\net6.0\project.csproj.AssemblyReference.cache
+C:\Users\caspi\Downloads\LeLouche_Projects\projects2024\construction\backend\csServer\obj\Debug\net6.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caspi\Downloads\LeLouche_Projects\projects2024\construction\backend\csServer\obj\Debug\net6.0\project.AssemblyInfoInputs.cache
+C:\Users\caspi\Downloads\LeLouche_Projects\projects2024\construction\backend\csServer\obj\Debug\net6.0\project.AssemblyInfo.cs
+C:\Users\caspi\Downloads\LeLouche_Projects\projects2024\construction\backend\csServer\obj\Debug\net6.0\project.csproj.CoreCompileInputs.cache
+C:\Users\caspi\Downloads\LeLouche_Projects\projects2024\construction\backend\csServer\obj\Debug\net6.0\project.MvcApplicationPartsAssemblyInfo.cache

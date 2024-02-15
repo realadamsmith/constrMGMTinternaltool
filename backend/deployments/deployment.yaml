@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: constrsample
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: myapp
+  template:
+    metadata:
+      labels:
+        app: myapp
+    spec:
+      containers:
+      - name: errinwright
+        image: public.ecr.aws/u9t4t3q9/errinwright:latest
+        ports:
+        - containerPort: 3000
